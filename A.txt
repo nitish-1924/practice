@@ -1,2 +1,4 @@
 Deleted All
+<<<<<<< HEAD
 This  file.Temp.Further Modified
+
